@@ -16,3 +16,13 @@ Explanation: Your function should return k = 5, with the first five elements of 
 It does not matter what you leave beyond the returned k (hence they are underscores).
 
 ## Approach
+1. Initialize a variable `idx = 0`
+2. Start the loop from `2 to n - 1`
+3. By reading the problem the first thing comes in mind that to look to the 2nd next index i.e. `i + 2` but if we see index `i + 2` brings an out of bound error. So to deal with this we will look on index `i - 2` since it will never give an out of bound error because it is always behind the `ith` index. On the verge of out of bound `i` will be greater than `n` and the loop will eventually end.
+4. Since problem asks of array with no duplicate numbers. So if we encounter any duplicate we will simply  `continue` the iteration i.e. `if (nums[i] == nums[i - 2] continue;`
+5. At last we will update the current `idx` i.e. `nums[idx++] = nums[i]`
+6. Return the `idx`
+
+## Time and Space Complexity
+TC - `O(N)` -- for searching upto `n` elements.<br>
+SC - `O(1)` -- no extra spaces or memory used.
