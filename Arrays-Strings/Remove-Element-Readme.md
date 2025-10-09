@@ -17,5 +17,5 @@ It does not matter what you leave beyond the returned k.
 5. Return `idx`
 
 ## Time and Space Complexity
-TC - `O(n)`, because we traverse all `n` elements once.
+TC - `O(n)`, because we traverse all `n` elements once.<br>
 SC - `O(1)` (constant space)
