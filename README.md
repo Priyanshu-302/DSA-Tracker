@@ -11,7 +11,7 @@ A complete collection of Data Structures &amp; Algorithms problems solved in C++
 ## 📈 Progress Tracker
 | Topic | Problems Solved |
 |--------|-----------------|
-| Arrays/Strings | 15 |
+| Arrays/Strings | 1 |
 
 ---
 
@@ -21,8 +21,3 @@ Each problem file contains:
 - Approach / Intuition
 - Code (C++)
 - Time & Space Complexity
-
----
-
-## 🚀 Goal
-To solve **500+ problems** with structured documentation and share my learning journey publicly.
