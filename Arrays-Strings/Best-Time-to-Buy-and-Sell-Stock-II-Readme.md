@@ -1,4 +1,4 @@
-# 121. Best Time to Buy and Sell Stock II - Medium
+# 122. Best Time to Buy and Sell Stock II - Medium
 
 ## Problem Statement
 You are given an integer array `prices` where `prices[i]` is the price of a given stock on the `ith` day.
