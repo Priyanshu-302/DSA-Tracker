@@ -17,7 +17,7 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 1. Before starting the approach let me clear that we have to return the maximum profit. And maximum profit can be only gained if the selling price is greater than the buying price or cost price.
 2. So we initialize a variable `best_buy` with value of `prices[0]` as the first buy and `max_profit = 0`
 3. We loop from `1 to n - 1`
-4. Check if the `best_buy < max_profit`, then we calculate the `max_profit` by taking out the maximum value between `max_profit` and `prices[i] - best_buy`
+4. Check if the `best_buy < prices[i]`, then we calculate the `max_profit` by taking out the maximum value between `max_profit` and `prices[i] - best_buy`
 5. Else, we just update the `best_buy` to the current `prices[i]`
 6. Lastly, we return the `max_profit`
 
