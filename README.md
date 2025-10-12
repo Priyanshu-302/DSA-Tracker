@@ -11,7 +11,7 @@ A complete collection of Data Structures &amp; Algorithms problems solved in C++
 ## 📈 Progress Tracker
 | Topic | Problems Solved |
 |--------|-----------------|
-| Arrays/Strings | 17|
+| Arrays/Strings | 19|
 
 ---
 
