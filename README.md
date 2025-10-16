@@ -5,6 +5,7 @@ A complete collection of Data Structures &amp; Algorithms problems solved in C++
 
 ## 🗂️ Topics Covered
 - Arrays/Strings
+- Two Pointers
   
 ---
 
