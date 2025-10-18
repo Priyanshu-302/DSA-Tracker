@@ -13,7 +13,7 @@ A complete collection of Data Structures &amp; Algorithms problems solved in C++
 | Topic | Problems Solved |
 |--------|-----------------|
 | Arrays/Strings | 23|
-| Two Pointers   | 3 | 
+| Two Pointers   | 5 | 
 
 ---
 
