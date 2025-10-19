@@ -6,6 +6,7 @@ A complete collection of Data Structures &amp; Algorithms problems solved in C++
 ## 🗂️ Topics Covered
 - Arrays/Strings
 - Two Pointers
+- Sliding Window
   
 ---
 
@@ -14,6 +15,7 @@ A complete collection of Data Structures &amp; Algorithms problems solved in C++
 |--------|-----------------|
 | Arrays/Strings | 23|
 | Two Pointers   | 5 | 
+| Sliding Window | 1 |
 
 ---
 
