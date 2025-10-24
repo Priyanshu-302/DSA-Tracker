@@ -7,6 +7,7 @@ A complete collection of Data Structures &amp; Algorithms problems solved in C++
 - Arrays/Strings
 - Two Pointers
 - Sliding Window
+- Matrix
   
 ---
 
@@ -16,6 +17,7 @@ A complete collection of Data Structures &amp; Algorithms problems solved in C++
 | Arrays/Strings | 23|
 | Two Pointers   | 5 | 
 | Sliding Window | 2 |
+| Matrix         | 2 |
 
 ---
 
