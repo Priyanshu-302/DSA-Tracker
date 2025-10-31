@@ -8,6 +8,7 @@ A complete collection of Data Structures &amp; Algorithms problems solved in C++
 - Two Pointers
 - Sliding Window
 - Matrix
+- Hashmap
   
 ---
 
@@ -18,6 +19,7 @@ A complete collection of Data Structures &amp; Algorithms problems solved in C++
 | Two Pointers   | 5 | 
 | Sliding Window | 2 |
 | Matrix         | 4 |
+| Hashmap        | 4 |
 
 ---
 
